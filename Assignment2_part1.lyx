@@ -7,6 +7,11 @@
 \textclass article
 \use_default_options true
 \maintain_unincluded_children false
+\begin_local_layout
+Counter section
+         Within               part
+End
+\end_local_layout
 \language english
 \language_package default
 \inputencoding auto
@@ -29,6 +34,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -44,6 +50,7 @@
 \use_package undertilde 1
 \cite_engine basic
 \cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -186,6 +193,60 @@ Higher-level managers will tend to look at the company from a different
  was successful because he was willing to buy lunch for the cashiers or
  others if they gave him a good tip, and that is a simple and low-level
  concept that upper managers probably wouldn't come up with on their own.
+\end_layout
+
+\begin_layout Part
+Organizing (35 marks)
+\end_layout
+
+\begin_layout Section
+Using the concept of unity of command, explain the cause of Simpson's angry
+ outburst.
+ (5 marks)
+\end_layout
+
+\begin_layout Standard
+hello world
+\end_layout
+
+\begin_layout Section
+What could White have done differently when he first was asked to appoint
+ someone from his department to the team? What could he have done to ensure
+ that Simpson's workload was more manageable? (15 marks)
+\end_layout
+
+\begin_layout Standard
+testing
+\end_layout
+
+\begin_layout Section
+What should Simms do now, both to fill the vacant position and to prevent
+ a similar problem from occuring in the future? (15 marks)
+\end_layout
+
+\begin_layout Part
+Staffing and Recruiting (30 marks)
+\end_layout
+
+\begin_layout Section
+As a department supervisor, what decision(s) should Destiny make in regard
+ to this romance? Consider how Destiney should respond to other employees'
+ uneasiness, while still maintaining an ethical stance towards the situation.
+ (15 marks)
+\end_layout
+
+\begin_layout Standard
+temp
+\end_layout
+
+\begin_layout Section
+Identify and discuss several areas in which Max Brown's initial experience
+ in Store #21 could have been improved by a proper orientation.
+ (15 marks)
+\end_layout
+
+\begin_layout Standard
+temp
 \end_layout
 
 \end_body
